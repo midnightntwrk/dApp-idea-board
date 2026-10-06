@@ -1,6 +1,6 @@
 # Submit Your Work to an Event
 
-Each event folder inside `/events/` (e.g. `hacktoberfest-2025/`, `midnight-summit/`) contains all the submissions for that event.
+Each event folder inside `Events/` (e.g. `hacktoberfest/`, `midnight-summit/`) contains all the submissions for that event.
 
 To contribute, **create a new Markdown file** inside the event’s folder.  
 Each file = one submission.
