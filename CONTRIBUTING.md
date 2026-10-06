@@ -10,7 +10,7 @@ We welcome your contributions to the Midnight network! By contributing, you'll p
 
 ## Submitting Issues
 
-Use one of the [templates] to submit an issue to the Project Board. The Midnight team or a community member will address it if it's relevant.
+Use one of the [issue templates](https://github.com/midnightntwrk/community-hub/issues/new/choose) to submit an issue to the Project Board. The Midnight team or a community member will address it if it's relevant.
 Ensure the title is a clear summary of the requirement and provides enough context.
 
 **Issue Types:**
@@ -18,6 +18,7 @@ Ensure the title is a clear summary of the requirement and provides enough conte
 * **Bug Report:** Provide detailed information about the issue, including steps to reproduce it, expected behavior, and actual behavior, screenshots, or any other relevant information.
 * **Documentation Improvement:** Clearly describe the improvement requested for existing content and/or raise missing areas of documentation and provide details for what should be included.  
 * **Feature Request:** Clearly describe your feature, its benefits, and most importantly, the expected outcome. This helps us analyze the proposed solution and develop alternatives.
+* **dApp Proposal:** Describe the product vision, the privacy value for a specific user, MVP user stories, and (optionally) a proposed tech stack.
 * **Enhancement:** (WIP)
 
 ## Code Contribution Process

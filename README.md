@@ -15,6 +15,7 @@ Use our GitHub Issue Forms to submit:
 * **Bug Reports:** Provide detailed information including steps to reproduce and expected behavior. Note: if a bug pertains to a specific repo (like `midnight-js`), report it there directly.
 * **Feature Requests:** Clearly describe the proposed feature, its benefits, and the expected outcome.
 * **Content Proposals:** Propose new tutorials, blog posts, or documentation improvements.
+* **dApp Proposals:** Share a product vision, privacy value proposition, and MVP user stories for a Midnight dApp.
 
 ### Pull Request Process
 1.  **Fork the Repo:** Create your own fork of the repository.
@@ -26,9 +27,9 @@ Use our GitHub Issue Forms to submit:
 ## 📅 Events & Showcases
 
 If you are participating in a Midnight event (such as **Hacktoberfest** or the **Midnight Summit**), you can showcase your work here:
-1.  Navigate to the `/events` folder.
-2.  Create a Markdown file in the specific event sub-folder (e.g., `events/hacktoberfest-2025/your-handle.md`).
-3.  Fill out the submission template found in the `events/README.md`.
+1.  Navigate to the `Events` folder.
+2.  Create a Markdown file in the specific event sub-folder (e.g., `Events/hacktoberfest/your-handle.md`).
+3.  Fill out the submission template found in `Events/README.md`.
 
 ## Bounty Programs
 
@@ -36,7 +37,7 @@ We run content and development bounties rewarded in NIGHT tokens. All participan
 
 - **[Bounty Program Terms](legal/BOUNTY_TERMS.md):** Standard terms for all bounty participants.
 - **[Contributor Agreement](legal/CONTRIBUTOR_AGREEMENT.md):** Additional terms for premium-tier engagements.
-- **[Submit a Bounty](../../issues/new?template=content-bounty.yml):** Use the Content Bounty issue template to submit your work.
+- **[Submit a Bounty](https://github.com/midnightntwrk/community-hub/issues/new?template=content-bounty.yml):** Use the Content Bounty issue template to submit your work.
 
 ## ⚖️ Governance & Security
 
@@ -44,8 +45,9 @@ We run content and development bounties rewarded in NIGHT tokens. All participan
 * **Security Policy:** Report security vulnerabilities privately via GitHub's private reporting or by emailing `security@midnight.foundation`.
 * **License:** This project is licensed under the **Apache License, Version 2.0**.
 
-To standardize submissions and make it easier for contributors, we provide the following issue templates:Content Proposal: For suggesting new content like articles, tutorials, or resources. Use this to propose ideas that educate or engage the community.
+To standardize submissions and make it easier for contributors, we provide the following issue templates:
 
+- Content Proposal: For suggesting new content like articles, tutorials, or resources. Use this to propose ideas that educate or engage the community.
 - Feature Request/Suggestion: For proposing new features, enhancements, or suggestions to improve existing tools or processes.
 - Bug: For reporting defects, errors, or unexpected behavior. Include reproduction steps, environment details, and screenshots if possible.
 - dApp Proposal: For ideas related to decentralized applications, including concepts, integrations, or improvements for dApps in our ecosystem.
@@ -67,7 +69,7 @@ The triage committee meets periodically to review and move issues. If legitimate
 
 ## Grab n Go Board
 
-The Grab n Go Board showcases approved, ready-to-work-on tasks. It's a backlog for contributors.Columns (based on the "Status" field):
+The Grab n Go Board showcases approved, ready-to-work-on tasks. It's a backlog for contributors. Columns (based on the "Status" field):
 - Ready: Triaged issues awaiting pickup (e.g., labeled good-first-issue for beginners).
 - In Progress: Tasks being worked on (assign yourself and update via PRs).
 - Done: Completed issues (auto-moves on close).
@@ -76,7 +78,7 @@ Automations handle movement between boards and status updates for efficiency.
 
 ## Code of Conduct
 
-We are committed to a positive, inclusive community. Please adhere to our CODE_OF_CONDUCT.md.
+We are committed to a positive, inclusive community. Please adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## Contributing
 
@@ -85,7 +87,7 @@ We welcome contributions from everyone! Follow these steps:
 - Fork the Repo: Click "Fork" on the top right.
 - Create an Issue: Use templates to submit ideas or bugs.
 - Work on Tasks: Browse the Grab n Go Board, assign yourself to a "Ready" issue.
-- Submit a Pull Request: Want to improve Community-hub? Submit a PR and follow our CONTRIBUTING.md for details on code style, testing, and commits.
+- Submit a Pull Request: Want to improve Community-hub? Submit a PR and follow our [CONTRIBUTING.md](CONTRIBUTING.md) for details on code style, testing, and commits.
 - Labels and Priorities: Use labels like priority:high, help-wanted, or good-first-issue to guide contributions.
 
 For non-code contributions (e.g., docs, proposals), submit via issues. All PRs require review by at least one maintainer.
@@ -96,10 +98,10 @@ For non-code contributions (e.g., docs, proposals), submit via issues. All PRs r
 
   **Steps:**
 
-  1. Navigate to the `/events` folder.  
-  2. Open the folder for your event (e.g. `events/hacktoberfest-2025/`).  
-  3. Inside, create a new Markdown file named after your handle or team: events/<event-slug>/<your-handle-or-team-slug>.md
-  4. Copy and fill out the [submission template](./events/README.md). It works for projects, tutorials, threads, or any other type of contribution.  
+  1. Navigate to the `Events` folder.  
+  2. Open the folder for your event (e.g. `Events/hacktoberfest/`).  
+  3. Inside, create a new Markdown file named after your handle or team: `Events/<event-slug>/<your-handle-or-team-slug>.md`
+  4. Copy and fill out the [submission template](./Events/README.md). It works for projects, tutorials, threads, or any other type of contribution.  
   5. Commit and open a Pull Request.
 
   Once your PR is merged, your submission will appear in the event’s showcase page automatically.
