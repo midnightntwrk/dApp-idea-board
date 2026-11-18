@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> The dApp idea board is closed, and its issues and pull requests are now read-only. To learn what you can build on Midnight, and how, start with the [Midnight documentation](https://docs.midnight.network/).
+
 # 👥 Contributor Hub
 
 The **Contributor Hub** is the central collaborative platform for gathering and managing community-driven contributions within the `midnightntwrk` organization. It serves as the primary entry point for proposing new content, requesting features, reporting issues, or ideating for dApps on the Midnight Network.
